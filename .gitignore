@@ -1,0 +1,8 @@
+/spectrograms.db
+/mw_data
+/old_stuff
+/.venv
+/__pycache__
+/.vscode
+/model.pth
+/.DS_Store
